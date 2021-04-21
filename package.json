@@ -1,24 +1,24 @@
 {
-  "name": "employee-tracker",
+  "name": "employee-tracker-challenge",
   "version": "1.0.0",
-  "description": "A command line application to view and manage the departments, roles, and employees in a company.",
+  "description": "",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jscottrumptz/employee-tracker.git"
+    "url": "git+https://github.com/Istephensondev/employee-tracker-challenge.git"
   },
-  "author": "J. Scott Rumptz",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jscottrumptz/employee-tracker/issues"
+    "url": "https://github.com/Istephensondev/employee-tracker-challenge/issues"
   },
-  "homepage": "https://github.com/jscottrumptz/employee-tracker#readme",
-  "dependencies": {
-    "console.table": "^0.10.0",
-    "inquirer": "^8.0.0",
-    "mysql2": "^2.2.5"
-  }
+  "homepage": "https://github.com/Istephensondev/employee-tracker-challenge#readme"
 }
